@@ -1,1 +1,1 @@
-"Solving-resource-forecact-in-wifi-marketing" 
+"Solving-resource-forecast-in-wifi-marketing" 
